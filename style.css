@@ -7,7 +7,7 @@ body{
 .half-width{
     width: 50%;
 }
-.stay-focused, .my-mission, .limit, .global{
+.stay-focused, .my-mission, .limit, .global, .think{
     margin: 0px 200px 100px 200px;
 }
 h4{
@@ -98,4 +98,22 @@ h2{
     margin-bottom: 100px;
     margin-right:500px;
     padding-left: 100px;
+}
+footer{
+    padding: 50px;
+    background-color: #0B0D17;
+    text-align: center;
+    
+}
+#footer1{
+    color:#ffffff;
+    font-family: 'Lobster', cursive;
+}
+#footer2{
+    color:#FF5959;
+    font-family: 'Lobster', cursive;
+}
+#footer3{
+    color: #D9DBE1;
+    font-weight: 100;
 }
