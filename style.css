@@ -7,8 +7,8 @@ body{
 .half-width{
     width: 50%;
 }
-.stay-focused, .my-mission, .limit {
-    margin: 0px 200px;
+.stay-focused, .my-mission, .limit, .global{
+    margin: 0px 200px 100px 200px;
 }
 h4{
     font-size: 20px;
@@ -80,10 +80,22 @@ h3{
 h2{
     font-size: 45px;
 }
-.limition{
+#limition{
     background-repeat: no-repeat;
     background-position: left center;
     background-image: url(shape-1.png);
     background-size: 300px;
     background-position-x: 80px;
+}
+.global{
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-image: url(shape-1.png);
+    background-size: 300px;
+    
+}
+#know{
+    margin-bottom: 100px;
+    margin-right:500px;
+    padding-left: 100px;
 }
