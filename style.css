@@ -6,9 +6,13 @@ body{
 }
 .half-width{
     width: 50%;
+    margin: 0px 20px;
 }
-.stay-focused, .my-mission, .limit, .global, .think{
-    margin: 0px 200px 100px 200px;
+.stay-focused, .my-mission, .limit, .think {
+    margin: 0px 200px 150px 200px;
+}
+.global{
+    margin: 0px 200px 0px 200px;
 }
 h4{
     font-size: 20px;
@@ -16,9 +20,8 @@ h4{
     color: rgb(82, 82, 82);
 }
 .person{
-    width:70%;
-   text-align: right;
-   margin-top: 0px;
+    width:70%; 
+    margin-top: 0px;
 }
 .focus-heading{
     margin-top: 100px;
@@ -54,10 +57,10 @@ h1{
     width: 200px;
 }
 .my{
-    width: 33%;
-    height: 450px;
-    margin: 0px 15px 100px 15px;
-    padding:40px 10px 0px 25px;
+    width: 30%;
+    height: 500px;
+    margin: 0px 15px 10px 15px;
+    padding:30px 30px 30px 40px;
     border-radius: 30px;
 }
 p{
@@ -80,24 +83,20 @@ h3{
 h2{
     font-size: 45px;
 }
-#limition{
+#limitation{
     background-repeat: no-repeat;
     background-position: left center;
     background-image: url(shape-1.png);
-    background-size: 300px;
-    background-position-x: 80px;
+    background-size: 290px;
+    background-position-x: 100px;
 }
-.global{
+#community{
     background-repeat: no-repeat;
     background-position: right bottom;
     background-image: url(shape-1.png);
-    background-size: 300px;
-    
-}
-#know{
-    margin-bottom: 100px;
-    margin-right:500px;
-    padding-left: 100px;
+    background-size: 250px;
+    background-position: 1300px 340px;
+    padding-bottom: 100px;
 }
 footer{
     padding: 50px;
