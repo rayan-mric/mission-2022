@@ -1,0 +1,30 @@
+body{
+    margin: 0px 200px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.flex{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-bottom: 50px;
+
+}
+.person{
+    width:70%;
+    margin-left: auto;
+}
+.heading{
+    margin-top: 100px;
+    border-left: 5px solid #f3557a;
+    border-radius: 5px ;
+    padding-left: 20px;
+    font-size: 50px;
+}
+.button{ text-decoration: none;
+    background-color: #f3557a;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 5px;
+    margin: 50px 5px 50px 0px;
+}
