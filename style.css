@@ -8,11 +8,14 @@ body{
 .half-width{
     width: 50%;
     margin-bottom: 50px;
-
+}
+h4{
+    font-size: 20px;
+    font-weight: 200;
 }
 .person{
     width:70%;
-    margin-left: auto;
+   text-align: right;
 }
 .heading{
     margin-top: 100px;
@@ -27,4 +30,10 @@ body{
     color: white;
     border-radius: 5px;
     margin: 50px 5px 50px 0px;
+}
+#focus-text{
+    width: 70%;
+}
+.text-color{
+    color: orange;
 }
